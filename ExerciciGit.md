@@ -6,6 +6,8 @@ In this exercise, the focus is on continuing the work from Exercise 1, emphasizi
 
 1. **GitHub Configuration:**
    - Configure the repository on GitHub to allow a classmate to clone it and push changes.
+![Imagen](Images/1.png)
+
 
 2. **Local Repository Setup:**
    - Clone the repository locally using Git Extensions.
