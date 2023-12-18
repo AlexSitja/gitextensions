@@ -23,12 +23,16 @@ In this exercise, the focus is on continuing the work from Exercise 1, emphasizi
    - Inside it, add an `index.html` file with `<h1>Add your code here</h1>` content.
    - Commit and push these changes to the repository.
 
+   [Imagen](Images/trabajo%20compi.png)
+
 5. **Working in Pairs:**
    - Clone your partner's repository using Git Extensions.
    - Locate a folder with your name inside.
    - Modify the `index.html` to create a beginner's guide to Git.
    - Add links to Git resources and explain the content of each link.
    - Commit and push your changes to your partner's repository on GitHub.
+
+   [Imagen](Images/2.png)
 
 6. **Final Steps:**
    - Once your partner finishes their work, pull the latest changes.
